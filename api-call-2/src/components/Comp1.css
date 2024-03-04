@@ -1,0 +1,14 @@
+.parent{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.child{
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 20px;
+    height: 370px;
+}
